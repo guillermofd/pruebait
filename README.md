@@ -1,1 +1,1 @@
-The code reads customers data for two consecutive monthsm and develops several algorithms to predict which clients will churn.
+The code reads customers data for two consecutive months and develops several algorithms to predict which clients will unsubscribe.

@@ -1,4 +1,4 @@
-id|num_llamad_ent|num_llamad_sal|mb_datos|seg_llamad_ent|seg_llamad_sal
+id|incoming_calls|outgoing_callsl|mb_data|secs_incoming_calls|secs_outgoing_calls
 1|95|19|6525|7634|18520
 2|44|36|14471|14541|8016
 3|94|27|1428|5248|7106
